@@ -8,7 +8,7 @@
   <ul>
     <li>I'm a Mechanical Engineering student minoring in Computer Science at McGill University.</li>
     <li>I’m currently learning ROS 2 Humble and deepening my knowledge in machine learning.</li>
-    <li>I have a passion for robotics and AI and I'm looking for opportunities to further grow in this field.</li>
+    <li>I have a passion for robotics and AI and I'm looking for opportunities to further grow in these fields.</li>
   </ul>
 </div>
 
