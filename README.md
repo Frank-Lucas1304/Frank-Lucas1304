@@ -1,14 +1,15 @@
 <div align="center">
   <h1>👋 Hi, I'm Frank-Lucas</h1>
-  <h3>Currently interning in Almería, Spain at DLR, researching solar energy</h3>
+  <h3>Currently interning at McGill's Ophthalmology Simulation Laoratory.</h3>
+  <h3>Previously interned in Almería, Spain at DLR, researching solar energy.</h3>
 </div>
 
 <div>
   <h3>🧠 Bio</h3> 
   <ul>
-    <li>I'm a Mechanical Engineering student minoring in Computer Science at McGill University.</li>
-    <li>I’m currently learning ROS 2 Humble and deepening my knowledge in machine learning.</li>
-    <li>I have a passion for robotics and AI and I'm looking for opportunities to further grow in these fields.</li>
+    <li>Incoming M.Sc. Computer Science student at the University of Montreal with a background in Mechanical Engineering.</li>
+    <li>Passionate about robotics, AI, and bringing machines to life.</li>
+    <li>Always eager to learn, explore new technologies, and take on challenging projects.</li>
   </ul>
 </div>
 
